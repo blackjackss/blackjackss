@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utku1114" alt="utku1114" /></a> </p>
 
-- 🔭 I’m currently working on [LegendWare V8](https://discord.gg/legendware)
+- 🔭 I’m currently working on [LegendWare V9](https://discord.gg/legendware)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
